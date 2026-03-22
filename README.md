@@ -14,3 +14,24 @@ Technologies Used:
 - OOP
 - ArrayList
 - Console Interface
+
+
+
+Task 2: Hotel Reservation System
+
+Features:
+- Search available rooms
+- Book rooms
+- Cancel reservations
+- Room categorization (Standard, Deluxe, Suite)
+- Payment simulation
+- View booking details
+- File handling for storing bookings
+- OOP based design
+
+Technologies Used:
+- Java
+- OOP
+- ArrayList
+- File Handling
+- Console Interface
